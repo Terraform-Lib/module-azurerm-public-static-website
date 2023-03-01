@@ -1,0 +1,1 @@
+# module-azurerm-public-static-website

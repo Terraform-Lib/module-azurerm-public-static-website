@@ -1,5 +1,5 @@
 module "azure_static_website" {
-  source = "./modules"
+  source = "./modules/azure-static-website"
 
   location            = "eastus"
   resource_group_name = "static-website-rg"
